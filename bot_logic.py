@@ -183,5 +183,4 @@ async def recicla(ctx, palavra: str = "Vazio", objeto: str = "Vazio", lixeira: s
 
 
 
-
-bot.run("Your token")
+bot.run("MTQ0Njk3NDUyNjI5MzU0MDg4Ng.G34Jry.lbqpLk3c21Uugrrafm-mVxOeDG3iPHc6J4qO9s")
